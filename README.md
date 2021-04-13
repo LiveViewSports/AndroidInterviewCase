@@ -11,9 +11,8 @@ Uygulama Özellikleri;
 - Arama yapılabilecek
 - Bookmark yapılabilecek ve listelenecek
 - Tüm içeriklerde detay sayfasına gidilebilecek
+- Örnekte olan tab bar yapısına benzer android arayüzüne uygun bir implementasyon yapılabilir.
 
-Örnek ekran görüntüleri ektedir. 
-
-Proje Kotlin ile geliştirilmelidir. MVVM patterni uygulanması beklenmektedir.
+Örnek ekran görüntüleri ss klasörü altındadır. Uygulamanın genel davranışı ve uygulama için navigasyon case-sample.mp4 içinde mevcuttur. Imajlar için cache mekanizması kullanılmalıdır. Proje Kotlin ile geliştirilmelidir. MVVM patterni uygulanması beklenmektedir.
 
 Proje github üstünden teslim edilmelidir.
